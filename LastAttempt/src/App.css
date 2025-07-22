@@ -1,0 +1,22 @@
+body {
+  font-family: 'Orbitron', sans-serif;
+  background: radial-gradient(circle, #1a001a, #4d004d);
+  color: white;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-top: 2rem;
+  color: #ff69b4;
+  text-shadow: 0 0 10px hotpink;
+}
+
+.jellybean-loader {
+  font-size: 1.2rem;
+  text-align: center;
+  color: #ff99cc;
+  margin: 2rem;
+}
